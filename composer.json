@@ -1,10 +1,7 @@
 {
   "name": "kadudutra/sectors-b3",
   "description": "Setores, subsetores e segmentos de empresas da Bolsa de Valores Brasileira",
-  "type": "library",
   "license": "MIT",
-  "minimum-stability": "stable",
-  "prefer-stable": true,
   "keywords": [
     "bolsa de valores",
     "b3",
