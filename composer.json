@@ -21,7 +21,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Segments\\": "Segments/src/"
+      "Segments\\": "Segments/src/",
+      "Subsectors\\": "Subsectors/src/"
     }
   }
 }
