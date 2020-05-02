@@ -1,0 +1,26 @@
+{
+  "name": "kadudutra/sectors-b3",
+  "description": "",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "keywords": [
+    "bolsa de valores",
+    "b3",
+    "setores b3"
+  ],
+  "authors": [
+    {
+      "name": "Kadu Dutra",
+      "email": "kadudutra7@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+    }
+  }
+}
